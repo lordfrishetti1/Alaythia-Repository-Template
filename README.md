@@ -1,4 +1,4 @@
-# {{ NAME OF TEXT }}
+# {{ NAME OF PROJECT }}
 
 {{ describe what is being done, the process being followed, and who is involved in the work }}
 
@@ -6,9 +6,9 @@
 
 * {{ list of people who have contributed to this repo }}
 
-## Source
+## Acknowledgements
 
-{{ indicate original source(s) of text: scans or existing transcriptions }}
+{{ List Nuget Packages, Open Source projects and licenses }}
 
 ## Progress
 
